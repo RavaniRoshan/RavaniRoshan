@@ -98,7 +98,7 @@ AI-powered personal stylist web application that leverages artificial intelligen
 
 ## 🌐 Let's Connect!
 
-- 💼 **LinkedIn:** [Ravani Roshan](https://linkedin.com/in/ravani-roshan)
+- 💼 **LinkedIn:** [Ravani Roshan](https://www.linkedin.com/in/roshan-ravani-3a79882a3/)
 - 🌐 **Portfolio:** [my-personalportfolio.vercel.app](https://my-personalportfolio.vercel.app/)
 - 📧 **Email:** ravaniroshansingh@gmail.com
 - 💻 **HackerRank:** [Profile](https://hackerrank.com/ravaniroshansingh)
