@@ -88,11 +88,11 @@ AI-powered personal stylist web application that leverages artificial intelligen
 
 <div align="center">
   
-![Ravani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=roshan-ravani&show_icons=true&theme=radical&hide_border=true)
+![Ravani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RavaniRoshan&show_icons=true&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roshan-ravani&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RavaniRoshan&layout=compact&theme=radical&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=roshan-ravani&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RavaniRoshan&theme=radical&hide_border=true)
 
 </div>
 
