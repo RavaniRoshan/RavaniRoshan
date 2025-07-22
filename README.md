@@ -57,7 +57,7 @@ I'm a passionate software developer and creative technologist fueled by a B.Tech
 
 ## 🚀 Featured Projects
 
-### 🤖 [CrewHub](https://github.com/roshan-ravani)
+### 🤖 [CrewHub](https://github.com/roshan-ravan)
 A collaborative platform for AI agent orchestration and workflow management that empowers teams.
 *Tech Stack: Python, React, AI/ML*
 
@@ -69,7 +69,7 @@ A curated collection of tools designed to enhance and streamline workflows in Bl
 Next-gen coding companion designed to supercharge development workflow with a sleek interface and powerful features.
 *Tech Stack: JavaScript, Node.js, React*
 
-### 👗 [Wardrobify](https://github.com/roshan-ravani)
+### 👗 [Wardrobify](https://github.com/RavaniRoshan/wardrobify-genius-08)
 AI-powered personal stylist web application that leverages artificial intelligence to provide personalized fashion recommendations.
 *Tech Stack: Python, TensorFlow, React*
 
