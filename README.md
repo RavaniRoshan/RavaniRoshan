@@ -57,7 +57,7 @@ I'm a passionate software developer and creative technologist fueled by a B.Tech
 
 ## 🚀 Featured Projects
 
-### 🤖 [CrewHub](https://builder-crewhubv3.vercel.app/)
+### 🤖 [CrewHub](https://github.com/RavaniRoshan/Builder-crewhubv3)
 A collaborative platform for AI agent orchestration and workflow management that empowers teams.
 *Tech Stack: Python, React, AI/ML*
 
