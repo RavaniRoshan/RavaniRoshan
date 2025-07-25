@@ -61,7 +61,7 @@ I'm a passionate software developer and creative technologist fueled by a B.Tech
 A collaborative platform for AI agent orchestration and workflow management that empowers teams.
 *Tech Stack: Python, React, AI/ML*
 
-### 🛠️ [BlendTools](https://github.com/roshan-ravani)
+### 🛠️ [BlendTools](https://github.com/RavaniRoshan/blendtools-vp)
 A curated collection of tools designed to enhance and streamline workflows in Blender, the open-source 3D creation suite.
 *Tech Stack: Python, Blender API*
 
