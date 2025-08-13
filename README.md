@@ -135,6 +135,7 @@ AI-powered personal stylist web application that leverages artificial intelligen
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RavaniRoshan&show_icons=true&theme=radical" alt="RavaniRoshan GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RavaniRoshan&theme=radical" alt="GitHub Streak"/>
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="RavaniRoshan 3D Contribution Graph"/>
 </p>
 
 
