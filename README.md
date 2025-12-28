@@ -8,8 +8,8 @@ I'm a passionate software developer and creative technologist fueled by a B.Tech
 
 ## 🎯 What I'm Up To
 
-- 🔭 **Currently Building:** CrewHub - A collaborative platform for AI agent orchestration and workflow management
-- 🌱 **Learning:** Advanced AI architectures, system optimization, and the art of scalable design
+- 🔭 **Currently Building:** **Axiom-One** (Research-Grade Reasoning System) & **Agent-X** (Vision-Language Browser Agent)
+- 🌱 **Learning:** Agentic AI, Multi-Agent Orchestration (LangGraph), Fine-tuning LLMs, and Computer Use with Anthropic
 - 🤝 **Open to Collaborate:** On innovative AI projects, full-stack applications, and anything that challenges the status quo
 - 💬 **Ask Me About:** Full-stack development, machine learning, system architecture, or why AI ethics debates keep me up at night
 - ⚡ **Fun Fact:** I've fine-tuned 8 AI models, won 3 hackathons, and can type at 120 WPM (fueled by 4 cups of coffee daily ☕)
@@ -30,15 +30,19 @@ I'm a passionate software developer and creative technologist fueled by a B.Tech
 ### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 
 ### AI/ML & Data Science
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Anthropic](https://img.shields.io/badge/Anthropic-D09D78?style=for-the-badge&logo=anthropic&logoColor=white)
+![Semantic Kernel](https://img.shields.io/badge/Semantic_Kernel-000000?style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -49,11 +53,6 @@ I'm a passionate software developer and creative technologist fueled by a B.Tech
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## 🚀 Featured Projects
 
@@ -127,37 +126,26 @@ I'm a passionate software developer and creative technologist fueled by a B.Tech
 
 ## 🏆 Recent Certifications & Achievements
 
-- 🎓 **Front End Development Libraries** - freeCodeCamp (Feb 2025)
-- 🤖 **Machine Learning with Python** - freeCodeCamp & Cognitive Class (Dec 2024)
-- 🎯 **Prompt Engineering for Vision Models** - DeepLearning.AI (Dec 2024)
-- 👁️ **Computer Vision** - Kaggle (Nov 2024)
-- 🎮 **Game AI and Reinforcement Learning** - Kaggle (Nov 2024)
-- 🏢 **Software Engineering Simulations** - Goldman Sachs, Walmart, EA (via Forage)
-- 🤖 **Introduction to Generative AI** - Google (Nov 2024)
+- 🎓 **Building toward Computer Use with Anthropic** - Anthropic (Mar 2025)
+- 🏢 **Software Engineering Job Simulations** - EA, Walmart, Goldman Sachs (Forage, 2024)
+- 🤖 **AI Agents in LangGraph** - DeepLearning.AI (2024)
+- 🚀 **Finetuning Large Language Models** - DeepLearning.AI (2024)
+- 🎨 **Front End Development Libraries** - freeCodeCamp (Feb 2025)
+- 👁️ **Prompt Engineering for Vision Models** - DeepLearning.AI (Dec 2024)
+- 🧠 **Machine Learning with Python** - Cognitive Class (Dec 2024)
 - 🔗 **Blockchain Masterclass** - CFTE
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=RavaniRoshan&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="ravaniroshan" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RavaniRoshan&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RavaniRoshan&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph" />
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RavaniRoshan&theme=radical&hide_border=true" height="180" alt="streak graph" />
 </div>
 
 ## 🌐 Let's Connect!
 
 - 💼 **LinkedIn:** [Ravani Roshan](https://www.linkedin.com/in/roshan-ravani-3a79882a3/)
-- 🌐 **Portfolio:** [my-personalportfolio.vercel.app](https://my-personalportfolio.vercel.app/)
+- 🌐 **Portfolio:** [ravani-roshan-singh.vercel.app/certificates](https://ravani-roshan-singh.vercel.app/certificates)
 - 📧 **Email:** ravaniroshansingh@gmail.com
 - 💻 **HackerRank:** [Profile](https://hackerrank.com/ravaniroshansingh)
 
