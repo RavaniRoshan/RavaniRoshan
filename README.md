@@ -140,6 +140,8 @@ I'm a passionate software developer and creative technologist fueled by a B.Tech
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RavaniRoshan&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RavaniRoshan&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RavaniRoshan&theme=radical&hide_border=true" height="180" alt="streak graph" />
 </div>
 
 ## 🌐 Let's Connect!
