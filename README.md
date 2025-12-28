@@ -4,7 +4,7 @@
 
 > *Tech maverick who lives at the fascinating crossroads of "why not?" and "let's find out."*
 
-I'm a passionate software developer and creative technologist fueled by a B.Tech in CSE from Silver Oak University. I transform digital problems into playground opportunities, wielding my full-stack arsenal and AI wizardry to build solutions that make people question why they ever settled for less.
+I’m not just "coding"—I’m orchestrating silicon to do my bidding. A founder-engineer who treats production code like poetry and overthinking like a bug. I build high-ROI AI products because "hello world" was boring ten years ago. My goal? Automate the mundane, scale the genius, and maybe—just maybe—build the thing that makes everything else obsolete. If you're looking for safe, by-the-book engineering, you're in the wrong repo. I'm here to ship fast, break the status quo, and turn caffeine into monetizable logic.
 
 ## 🎯 What I'm Up To
 
