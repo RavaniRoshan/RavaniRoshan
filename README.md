@@ -57,21 +57,73 @@ I'm a passionate software developer and creative technologist fueled by a B.Tech
 
 ## 🚀 Featured Projects
 
-### 🤖 [CrewHub](https://github.com/RavaniRoshan/Crewhub)
-A collaborative platform for AI agent orchestration and workflow management that empowers teams.
-*Tech Stack: Python, React, AI/ML*
-
-### 🛠️ [BlendTools](https://github.com/RavaniRoshan/blendtools-vp)
-A curated collection of tools designed to enhance and streamline workflows in Blender, the open-source 3D creation suite.
-*Tech Stack: Python, Blender API*
-
-### 💻 [Markcode-T2](https://github.com/RavaniRoshan/Markcode-T2)
-Next-gen coding companion designed to supercharge development workflow with a sleek interface and powerful features.
-*Tech Stack: JavaScript, Node.js, React*
-
-### 👗 [Wardrobify](https://github.com/RavaniRoshan/wardrobify-genius-08)
-AI-powered personal stylist web application that leverages artificial intelligence to provide personalized fashion recommendations.
-*Tech Stack: Python, TensorFlow, React*
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center">🕵️‍♂️ Agent-X</h3>
+      <p align="center"><i>Oct 2024 - Dec 2024</i></p>
+      <p>AI agent that automates browser tasks using vision-language models. Interacts with websites from plain English instructions, leveraging Python, FastAPI, Playwright, React, and Gemini 2.5. Open-source, safety-first, and fully browser-native for hands-free web automation.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/RavaniRoshan/Agent-X">
+          <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🕸️ LegacyLens</h3>
+      <p align="center"><i>Nov 2024 - Dec 2024</i></p>
+      <p>The AI Archaeologist. Turn 1M+ lines of legacy spaghetti code into a living dependency map using Gemini 3.0 Pro. Visualize fragility, trace logic, and chat with your monolith. Built with Next.js to transform how we understand legacy systems.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gemini_3.0-4285F4?style=flat-square&logo=google&logoColor=white" />
+        <img src="https://img.shields.io/badge/AI_Analysis-FF6F00?style=flat-square" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/RavaniRoshan/LegacyLens">
+          <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">📚 RAG Course Project</h3>
+      <p align="center"><i>Jun 2024 - Sep 2024</i></p>
+      <p>Comprehensive RAG course covering theory, production-ready code, and 15 modules—reranking, chunking, embeddings, vector DBs, hybrid search, query optimization, agentic workflows, and deployment. Suited for AI/ML developers seeking advanced RAG knowledge.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/RAG-FF4B4B?style=flat-square" />
+        <img src="https://img.shields.io/badge/Vector_DB-000000?style=flat-square&logo=database&logoColor=white" />
+        <img src="https://img.shields.io/badge/AI_Agents-009688?style=flat-square" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/RavaniRoshan/Rag-course">
+          <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🧠 AXIOM-ONE</h3>
+      <p align="center"><i>Aug 2024 - Dec 2024</i></p>
+      <p>A Research-Grade Reasoning System (Not a Chatbot). A thinking-first research agent that decomposes problems, runs multi-step reasoning loops, validates its own outputs, and exposes the entire thought pipeline. Optimizes for correctness under pressure.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gemini_3_Pro-4285F4?style=flat-square&logo=google&logoColor=white" />
+      </p>
+      <p align="center">
+        <a href="#">
+          <img src="https://img.shields.io/badge/Coming_Soon-8A2BE2?style=for-the-badge" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ## 🏆 Recent Certifications & Achievements
 
@@ -86,11 +138,21 @@ AI-powered personal stylist web application that leverages artificial intelligen
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RavaniRoshan&theme=radical" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RavaniRoshan&layout=compact&theme=radical&hide_border=true"/>
-</p>
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=RavaniRoshan&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="ravaniroshan" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RavaniRoshan&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RavaniRoshan&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph" />
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RavaniRoshan&theme=radical&hide_border=true" height="180" alt="streak graph" />
+</div>
 
 ## 🌐 Let's Connect!
 
