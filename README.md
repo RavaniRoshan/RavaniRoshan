@@ -116,8 +116,8 @@ I’m not just "coding"—I’m orchestrating silicon to do my bidding. A founde
         <img src="https://img.shields.io/badge/Gemini_3_Pro-4285F4?style=flat-square&logo=google&logoColor=white" />
       </p>
       <p align="center">
-        <a href="#">
-          <img src="https://img.shields.io/badge/Coming_Soon-8A2BE2?style=for-the-badge" />
+        <a href="https://github.com/RavaniRoshan/AXiOM">
+          <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
     </td>
