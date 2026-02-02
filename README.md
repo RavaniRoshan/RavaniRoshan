@@ -2,19 +2,19 @@
 
 ### ~~AI-Powered Alchemist & Full-Stack Engineer~~ You know what? "I am just ROSHAN"
 
-> *Tech maverick who lives at the fascinating crossroads of "why not?" and "let's find out."*
+> *I don't just push boundaries; I gave them an eviction notice. Welcome to the lab.*
 
-I’m not just "coding"—I’m orchestrating silicon to do my bidding. A founder-engineer who treats production code like poetry and overthinking like a bug. I build high-ROI AI products because "hello world" was boring ten years ago. My goal? Automate the mundane, scale the genius, and maybe—just maybe—build the thing that makes everything else obsolete. If you're looking for safe, by-the-book engineering, you're in the wrong repo. I'm here to ship fast, break the status quo, and turn caffeine into monetizable logic.
+Look, I don't just "code"—I teach rocks how to think and get them to thank me for it. I’m a founder-engineer who treats production like a jazz solo: calculated chaos with a lot of soul. I build high-ROI AI products because "impossible" is just a dare I haven't taken yet. My goal? Automate the mundane, scale the genius, and build the kind of tech that makes Skynet look like a pocket calculator. If you're looking for safe, color-by-numbers engineering, go hire a spreadsheet. I'm here to ship fast, break the status quo, and turn ungodly amounts of caffeine into pure, monetizable magic.
 
 ## 🎯 What I'm Up To
 
-- 🔭 **Currently Building:** **Axiom-One** (Research-Grade Reasoning System) & **Agent-X** (Vision-Language Browser Agent)
-- 🌱 **Learning:** Agentic AI, Multi-Agent Orchestration (LangGraph), Fine-tuning LLMs, and Computer Use with Anthropic
-- 🤝 **Open to Collaborate:** On innovative AI projects, full-stack applications, and anything that challenges the status quo
-- 💬 **Ask Me About:** Full-stack development, machine learning, system architecture, or why AI ethics debates keep me up at night
-- ⚡ **Fun Fact:** I've fine-tuned 8 AI models, won 3 hackathons, and can type at 120 WPM (fueled by 4 cups of coffee daily ☕)
+- 🔭 **Currently Architecting:** **Axiom-One** (Research-Grade Reasoning System—because chatbots are boring) & **Agent-X** (Vision-Language Browser Agent—yes, it can see you).
+- 🌱 **Downloading to Brain:** Agentic AI, LangGraph, Fine-tuning... basically learning how to make the machines do my chores.
+- 🤝 **Looking for Co-Conspirators:** To build innovative AI projects or anything that sounds vaguely impossible.
+- 💬 **Provoke Me About:** System architecture, the singularity, or why AI ethics is the only conversation worth having at parties.
+- ⚡ **Weird Flex:** I've fine-tuned 8 AI models, swept 3 hackathons, and type at 120 WPM. My blood stream is 90% Arabica.
 
-## 🛠️ Tech Arsenal
+## 🛠️ Tools I Use to Bend Reality
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -124,7 +124,7 @@ I’m not just "coding"—I’m orchestrating silicon to do my bidding. A founde
   </tr>
 </table>
 
-## 🏆 Recent Certifications & Achievements
+## 🏆 Proof I Actually Know Things
 
 - 🎓 **Building toward Computer Use with Anthropic** - Anthropic (Mar 2025)
 - 🏢 **Software Engineering Job Simulations** - EA, Walmart, Goldman Sachs (Forage, 2024)
@@ -144,20 +144,20 @@ I’m not just "coding"—I’m orchestrating silicon to do my bidding. A founde
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RavaniRoshan&theme=radical&hide_border=true" height="180" alt="streak graph" />
 </div>
 
-## 🌐 Let's Connect!
+## 🌐 Connect Before I'm Famous
 
-- 💼 **LinkedIn:** [Ravani Roshan](https://www.linkedin.com/in/roshan-ravani-3a79882a3/)
-- 🌐 **Portfolio:** [ravani-roshan-singh.vercel.app/certificates](https://ravani-roshan-singh.vercel.app/certificates)
-- 📧 **Email:** ravaniroshansingh@gmail.com
+- 💼 **LinkedIn:** [Ravani Roshan](https://www.linkedin.com/in/roshan-ravani-3a79882a3/) (My "Professional" Mask)
+- 🌐 **Portfolio:** [ravani-roshan-singh.vercel.app/certificates](https://ravani-roshan-singh.vercel.app/certificates) (The "I'm Actually Good" Proof)
+- 📧 **Email:** ravaniroshansingh@gmail.com (Send memes or job offers. Preferably both.)
 - 💻 **HackerRank:** [Profile](https://hackerrank.com/ravaniroshansingh)
 
 ---
 
 <div align="center">
 
-*"My brain thrives on architectural challenges that would make others run—scalability puzzles? Systems optimization? Bring it on!"* 💪
+*"I don't just solve problems. I create solutions that make the original problem look like it was asking for it."* 💪
 
-**Fair warning: conversations with me might spiral into unexpected territory—but isn't that where the best breakthroughs happen?** 🌟
+**Fair warning: I may accidentally automate your job while we're talking.** 🌟
 
 ![Profile Views](https://komarev.com/ghpvc/?username=roshan-ravani&color=blueviolet&style=flat-square&label=Profile+Views)
 
