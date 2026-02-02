@@ -1,6 +1,6 @@
 # Hey there, I'm Ravani Roshan! 👋
 
-### AI-Powered Alchemist & Full-Stack Engineer 🚀
+### ~~AI-Powered Alchemist & Full-Stack Engineer~~ You know what? "I am just ROSHAN"
 
 > *Tech maverick who lives at the fascinating crossroads of "why not?" and "let's find out."*
 
