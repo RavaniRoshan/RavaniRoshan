@@ -1,4 +1,4 @@
-# Hey there, I'm Ravani Roshan! 👋
+# Hey there, I'm Ravani Roshan! 
 
 ### ~~AI-Powered Alchemist & Full-Stack Engineer~~ You know what? "I am just ROSHAN"
 
