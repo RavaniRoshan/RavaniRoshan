@@ -75,16 +75,16 @@ Look, I don't just "code"—I teach rocks how to think and get them to thank me 
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">🕸️ LegacyLens</h3>
-      <p align="center"><i>Nov 2024 - Dec 2024</i></p>
-      <p>The AI Archaeologist. Turn 1M+ lines of legacy spaghetti code into a living dependency map using Gemini 3.0 Pro. Visualize fragility, trace logic, and chat with your monolith. Built with Next.js to transform how we understand legacy systems.</p>
+      <h3 align="center">🔍 AgentTrace</h3>
+      <p align="center"><i>Jan 2025 - Present</i></p>
+      <p>A visual debugger for AI agent loops. Add <code>@trace</code>, <code>@trace_llm</code>, and <code>@trace_tool</code> to capture every step, tool call, token, cost, and error, then inspect runs in a local timeline UI. Works across raw Python, LangChain, CrewAI, LlamaIndex, and async agents with local-first JSON trace storage.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/Gemini_3.0-4285F4?style=flat-square&logo=google&logoColor=white" />
-        <img src="https://img.shields.io/badge/AI_Analysis-FF6F00?style=flat-square" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Local--First_Debugging-111111?style=flat-square" />
       </p>
       <p align="center">
-        <a href="https://github.com/RavaniRoshan/LegacyLens">
+        <a href="https://github.com/ravaniroshan/agentrace">
           <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
