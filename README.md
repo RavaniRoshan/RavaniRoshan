@@ -6,6 +6,16 @@
 
 Look, I don't just "code"—I teach rocks how to think and get them to thank me for it. I’m a founder-engineer who treats production like a jazz solo: calculated chaos with a lot of soul. I build high-ROI AI products because "impossible" is just a dare I haven't taken yet. My goal? Automate the mundane, scale the genius, and build the kind of tech that makes Skynet look like a pocket calculator. If you're looking for safe, color-by-numbers engineering, go hire a spreadsheet. I'm here to ship fast, break the status quo, and turn ungodly amounts of caffeine into pure, monetizable magic.
 
+### 🚨 Building in Public: OpenJCK
+
+Right now, the project getting most of my obsession is **OpenJCK** (formerly AgentTrace): the observability + reliability runtime for autonomous AI agent systems — basically **Cloudflare for AI agents**.
+
+If NVIDIA OpenShell answers *"what can an agent do?"*, OpenJCK answers *"what did it do, why did it fail, and how do we keep fleets alive 24/7?"* It’s designed for the new always-on world of Claude-based autonomous agents, where reliability is not a feature — it’s survival.
+
+- ✅ **v0.1 shipped:** `@trace` decorator, static HTML viewer, npm package
+- 🔨 **v0.2 in progress:** live dashboard, Failure Intelligence, Express + SQLite backend, SSE
+- 🧭 **Next:** the five-phase roadmap to production-grade agent infrastructure
+
 ## 🎯 What I'm Up To
 
 - 🔭 **Currently Architecting:** **Axiom-One** (Research-Grade Reasoning System—because chatbots are boring) & **Agent-X** (Vision-Language Browser Agent—yes, it can see you).
@@ -75,9 +85,9 @@ Look, I don't just "code"—I teach rocks how to think and get them to thank me 
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">🔍 AgentTrace</h3>
+      <h3 align="center">🔍 OpenJCK (formerly AgentTrace)</h3>
       <p align="center"><i>Jan 2025 - Present</i></p>
-      <p>A visual debugger for AI agent loops. Add <code>@trace</code>, <code>@trace_llm</code>, and <code>@trace_tool</code> to capture every step, tool call, token, cost, and error, then inspect runs in a local timeline UI. Works across raw Python, LangChain, CrewAI, LlamaIndex, and async agents with local-first JSON trace storage.</p>
+      <p>The observability and reliability runtime for autonomous AI agent systems. Add <code>@trace</code>, <code>@trace_llm</code>, and <code>@trace_tool</code> to capture every step, tool call, token, cost, and error, then inspect runs in timeline views and operational dashboards. Built for always-on agent fleets with local-first tracing and production reliability workflows.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
