@@ -1,8 +1,8 @@
-# Hey there, I'm Ravani Roshan! 
+# Hey there, I'm Ravani Roshan!
 
 ### ~~AI-Powered Alchemist & Full-Stack Engineer~~ You know what? "I am just ROSHAN"
 
-> *I don't just push boundaries; I gave them an eviction notice. Welcome to the lab.*
+> _I don't just push boundaries; I gave them an eviction notice. Welcome to the lab._
 
 Look, I don't just "code"—I teach rocks how to think and get them to thank me for it. I’m a founder-engineer who treats production like a jazz solo: calculated chaos with a lot of soul. I build high-ROI AI products because "impossible" is just a dare I haven't taken yet. My goal? Automate the mundane, scale the genius, and build the kind of tech that makes Skynet look like a pocket calculator. If you're looking for safe, color-by-numbers engineering, go hire a spreadsheet. I'm here to ship fast, break the status quo, and turn ungodly amounts of caffeine into pure, monetizable magic.
 
@@ -10,7 +10,7 @@ Look, I don't just "code"—I teach rocks how to think and get them to thank me 
 
 Right now, the project getting most of my obsession is **OpenJCK** (formerly AgentTrace): the observability + reliability runtime for autonomous AI agent systems — basically **Cloudflare for AI agents**.
 
-If NVIDIA OpenShell answers *"what can an agent do?"*, OpenJCK answers *"what did it do, why did it fail, and how do we keep fleets alive 24/7?"* It’s designed for the new always-on world of Claude-based autonomous agents, where reliability is not a feature — it’s survival.
+If NVIDIA OpenShell answers _"what can an agent do?"_, OpenJCK answers _"what did it do, why did it fail, and how do we keep fleets alive 24/7?"_ It’s designed for the new always-on world of Claude-based autonomous agents, where reliability is not a feature — it’s survival.
 
 - ✅ **v0.1 shipped:** `@trace` decorator, static HTML viewer, npm package
 - 🔨 **v0.2 in progress:** live dashboard, Failure Intelligence, Express + SQLite backend, SSE
@@ -27,6 +27,7 @@ If NVIDIA OpenShell answers *"what can an agent do?"*, OpenJCK answers *"what di
 ## 🛠️ Tools I Use to Bend Reality
 
 ### Programming Languages
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -38,6 +39,7 @@ If NVIDIA OpenShell answers *"what can an agent do?"*, OpenJCK answers *"what di
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### Frameworks & Libraries
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -47,6 +49,7 @@ If NVIDIA OpenShell answers *"what can an agent do?"*, OpenJCK answers *"what di
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 
 ### AI/ML & Data Science
+
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
@@ -58,6 +61,7 @@ If NVIDIA OpenShell answers *"what can an agent do?"*, OpenJCK answers *"what di
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ### Cloud & DevOps
+
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -69,64 +73,31 @@ If NVIDIA OpenShell answers *"what can an agent do?"*, OpenJCK answers *"what di
 <table width="100%">
   <tr>
     <td width="50%">
-      <h3 align="center">🕵️‍♂️ Agent-X</h3>
-      <p align="center"><i>Oct 2024 - Dec 2024</i></p>
-      <p>AI agent that automates browser tasks using vision-language models. Interacts with websites from plain English instructions, leveraging Python, FastAPI, Playwright, React, and Gemini 2.5. Open-source, safety-first, and fully browser-native for hands-free web automation.</p>
+      <h3 align="center">🪟 WinScript MCP</h3>
+      <p align="center"><i>Mar 2024 - Jul 2024</i></p>
+      <p>A Windows-native automation API, packaged as an MCP server, that gives AI agents the same system-level desktop control that AppleScript gives on macOS.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" />
+        <img src="https://img.shields.io/badge/MCP-000000?style=flat-square" />
       </p>
       <p align="center">
-        <a href="https://github.com/RavaniRoshan/Agent-X">
+        <a href="https://github.com/RavaniRoshan/winscript-mcp">
           <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">🔍 OpenJCK (formerly AgentTrace)</h3>
-      <p align="center"><i>Jan 2025 - Present</i></p>
-      <p>The observability and reliability runtime for autonomous AI agent systems. Add <code>@trace</code>, <code>@trace_llm</code>, and <code>@trace_tool</code> to capture every step, tool call, token, cost, and error, then inspect runs in timeline views and operational dashboards. Built for always-on agent fleets with local-first tracing and production reliability workflows.</p>
+      <h3 align="center">🔍 OpenJCK</h3>
+      <p align="center"><i>Jan 2024 - Present</i></p>
+      <p>An agent workflow visual debugging tool. It acts as an observability and reliability runtime for autonomous AI agent systems. Provides a timeline view and step inspector to trace LLM and tool calls, automatically identifying root causes of agent failures.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/Local--First_Debugging-111111?style=flat-square" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
       </p>
       <p align="center">
-        <a href="https://github.com/ravaniroshan/agentrace">
-          <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">📚 RAG Course Project</h3>
-      <p align="center"><i>Jun 2024 - Sep 2024</i></p>
-      <p>Comprehensive RAG course covering theory, production-ready code, and 15 modules—reranking, chunking, embeddings, vector DBs, hybrid search, query optimization, agentic workflows, and deployment. Suited for AI/ML developers seeking advanced RAG knowledge.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/RAG-FF4B4B?style=flat-square" />
-        <img src="https://img.shields.io/badge/Vector_DB-000000?style=flat-square&logo=database&logoColor=white" />
-        <img src="https://img.shields.io/badge/AI_Agents-009688?style=flat-square" />
-      </p>
-      <p align="center">
-        <a href="https://github.com/RavaniRoshan/Rag-course">
-          <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🧠 AXIOM-ONE</h3>
-      <p align="center"><i>Aug 2024 - Dec 2024</i></p>
-      <p>A Research-Grade Reasoning System (Not a Chatbot). A thinking-first research agent that decomposes problems, runs multi-step reasoning loops, validates its own outputs, and exposes the entire thought pipeline. Optimizes for correctness under pressure.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/Gemini_3_Pro-4285F4?style=flat-square&logo=google&logoColor=white" />
-      </p>
-      <p align="center">
-        <a href="https://github.com/RavaniRoshan/AXiOM">
+        <a href="https://github.com/RavaniRoshan/openjck">
           <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
@@ -165,7 +136,7 @@ If NVIDIA OpenShell answers *"what can an agent do?"*, OpenJCK answers *"what di
 
 <div align="center">
 
-*"I don't just solve problems. I create solutions that make the original problem look like it was asking for it."* 💪
+_"I don't just solve problems. I create solutions that make the original problem look like it was asking for it."_ 💪
 
 **Fair warning: I may accidentally automate your job while we're talking.** 🌟
 
