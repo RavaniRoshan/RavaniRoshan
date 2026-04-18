@@ -103,6 +103,39 @@ If NVIDIA OpenShell answers _"what can an agent do?"_, OpenJCK answers _"what di
       </p>
     </td>
   </tr>
+
+  <tr>
+    <td width="50%">
+      <h3 align="center">🪟 WinScript-lang</h3>
+      <p align="center"><i>2024 - Present</i></p>
+      <p>The open scripting language for Windows automation. Designed so AI agents and humans can automate any Windows application using natural, readable syntax. Features an Interactive REPL, CLI, VSCode Extension & Language Server, and Microsoft Excel COM Integration.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" />
+        <img src="https://img.shields.io/badge/MCP-000000?style=flat-square" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/RavaniRoshan/winscript-lang">
+          <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🔍 OpenJCK Cloud</h3>
+      <p align="center"><i>2024 - Present</i></p>
+      <p>The observability and reliability runtime for autonomous AI agent systems. Features OpenJCK Protocol v1, Claude-powered AI Fix for root cause analysis, a multi-agent grid view, and a real-time dashboard with SSE updates.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/RavaniRoshan/openjck-cloud">
+          <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+  </tr>
 </table>
 
 ## 🏆 Proof I Actually Know Things
