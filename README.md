@@ -85,16 +85,17 @@ If NVIDIA OpenShell answers *"what can an agent do?"*, OpenJCK answers *"what di
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">🔍 OpenJCK (formerly AgentTrace)</h3>
-      <p align="center"><i>Jan 2025 - Present</i></p>
-      <p>The observability and reliability runtime for autonomous AI agent systems. Add <code>@trace</code>, <code>@trace_llm</code>, and <code>@trace_tool</code> to capture every step, tool call, token, cost, and error, then inspect runs in timeline views and operational dashboards. Built for always-on agent fleets with local-first tracing and production reliability workflows.</p>
+      <h3 align="center">🪟 WinScript</h3>
+      <p align="center"><i>Mar 2025 - Present</i></p>
+      <p>The open scripting language for Windows automation. A real language—not a tool wrapper—designed so AI agents and humans can automate any Windows application using natural, readable syntax. Features interactive REPL, VSCode extension, Excel COM integration, script libraries, and pluggable backends (CDP, COM, UIA).</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/Local--First_Debugging-111111?style=flat-square" />
+        <img src="https://img.shields.io/badge/Lark_Parser-000000?style=flat-square" />
+        <img src="https://img.shields.io/badge/MCP_Integration-FF6F00?style=flat-square" />
+        <img src="https://img.shields.io/badge/VSCode_LSP-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
       </p>
       <p align="center">
-        <a href="https://github.com/ravaniroshan/agentrace">
+        <a href="https://github.com/RavaniRoshan/winscript-lang">
           <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
@@ -112,6 +113,39 @@ If NVIDIA OpenShell answers *"what can an agent do?"*, OpenJCK answers *"what di
       </p>
       <p align="center">
         <a href="https://github.com/RavaniRoshan/Rag-course">
+          <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">☁️ OpenJCK Cloud</h3>
+      <p align="center"><i>Jan 2025 - Present</i></p>
+      <p>The observability and reliability runtime for autonomous AI agent systems—"Cloudflare for AI agents." Features OpenJCK Protocol v1, AI Fix with Claude-powered failure analysis, full backend (Node.js/Express), Next.js 15 dashboard, and Python SDK with one-line instrumentation.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/RavaniRoshan/openjck-cloud">
+          <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🔍 OpenJCK (formerly AgentTrace)</h3>
+      <p align="center"><i>Jan 2025 - Present</i></p>
+      <p>The observability and reliability runtime for autonomous AI agent systems. Add <code>@trace</code>, <code>@trace_llm</code>, and <code>@trace_tool</code> to capture every step, tool call, token, cost, and error, then inspect runs in timeline views and operational dashboards. Built for always-on agent fleets with local-first tracing and production reliability workflows.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Local--First_Debugging-111111?style=flat-square" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/ravaniroshan/agentrace">
           <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
