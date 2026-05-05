@@ -73,16 +73,16 @@ If NVIDIA OpenShell answers _"what can an agent do?"_, OpenJCK answers _"what di
 <table width="100%">
   <tr>
     <td width="50%">
-      <h3 align="center">🪟 WinScript MCP</h3>
-      <p align="center"><i>Mar 2024 - Jul 2024</i></p>
-      <p>A Windows-native automation API, packaged as an MCP server, that gives AI agents the same system-level desktop control that AppleScript gives on macOS.</p>
+      <h3 align="center">📄 open-pdf</h3>
+      <p align="center"><i>Last week - Present</i></p>
+      <p>A resilient, intelligent PDF viewer that rewrites complex documents for absolute clarity. Features an isolated reader tab, three tiers of clarity (Normal, Simple, Technical), stealth peek mode, flawless page synchronization, and defensive engineering for multi-column documents.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" />
-        <img src="https://img.shields.io/badge/MCP-000000?style=flat-square" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Chrome_Extension-4285F4?style=flat-square&logo=google-chrome&logoColor=white" />
+        <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
       </p>
       <p align="center">
-        <a href="https://github.com/RavaniRoshan/winscript-mcp">
+        <a href="https://github.com/RavaniRoshan/open-pdf">
           <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
