@@ -73,16 +73,16 @@ If NVIDIA OpenShell answers _"what can an agent do?"_, OpenJCK answers _"what di
 <table width="100%">
   <tr>
     <td width="50%">
-      <h3 align="center">📄 open-pdf</h3>
-      <p align="center"><i>Last week - Present</i></p>
-      <p>A resilient, intelligent PDF viewer that rewrites complex documents for absolute clarity. Features an isolated reader tab, three tiers of clarity (Normal, Simple, Technical), stealth peek mode, flawless page synchronization, and defensive engineering for multi-column documents.</p>
+      <h3 align="center">🛡️ Backstop</h3>
+      <p align="center"><i>May 2024 - Present</i></p>
+      <p>In-process AI SDK backpressure, budgets, retries, circuit breaking, and metrics. Backstop replaces the SDK's internal httpx transport with a controlled pipeline—budget enforcement, circuit breaking, priority admission, retry logic—before any request leaves your application. Includes the Wedge tool for multi-agent diffing.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/Chrome_Extension-4285F4?style=flat-square&logo=google-chrome&logoColor=white" />
-        <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Anthropic-D09D78?style=flat-square&logo=anthropic&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
       </p>
       <p align="center">
-        <a href="https://github.com/RavaniRoshan/open-pdf">
+        <a href="https://github.com/RavaniRoshan/backstop">
           <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
