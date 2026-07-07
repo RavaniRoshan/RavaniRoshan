@@ -74,7 +74,7 @@ If NVIDIA OpenShell answers _"what can an agent do?"_, OpenJCK answers _"what di
   <tr>
     <td width="50%">
       <h3 align="center">🛡️ Backstop</h3>
-      <p align="center"><i>May 2024 - Present</i></p>
+      <p align="center"><i>July 2026 - Present</i></p>
       <p>In-process AI SDK backpressure, budgets, retries, circuit breaking, and metrics. Backstop replaces the SDK's internal httpx transport with a controlled pipeline—budget enforcement, circuit breaking, priority admission, retry logic—before any request leaves your application. Includes the Wedge tool for multi-agent diffing.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
