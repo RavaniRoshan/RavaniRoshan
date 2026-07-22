@@ -53,23 +53,7 @@ Think: fire-and-forget coding agents, but with containment. Because giving five 
 [![Niki](https://img.shields.io/badge/View_Niki-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RavaniRoshan/niki)
 [![Niki Site](https://img.shields.io/badge/Niki_Site-000000?style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/RavaniRoshan/niki-site)
 
----
 
-### 👻 Phantom
-
-**Phantom** is an invisible background-mode computer-use agent for Windows.
-
-It sits in the category I care about most right now: agents that can operate real environments, not just answer questions about them. The goal is practical computer-use automation that works quietly in the background — less "look ma, I clicked a button," more "the task is done, your keyboard survived."
-
-- Windows-focused computer-use automation
-- Background-mode agent design
-- Rust-based systems work
-- Companion product-site experimentation
-
-[![Phantom](https://img.shields.io/badge/View_Phantom-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RavaniRoshan/phantom)
-[![Phantom Product Site](https://img.shields.io/badge/Product_Site-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/RavaniRoshan/phantom-product-site)
-
----
 
 ## 🧪 Recent Work
 
