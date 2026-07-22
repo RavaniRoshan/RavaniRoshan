@@ -2,14 +2,6 @@
 
 <div align="center">
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│  Ravani Roshan                                               │
-│  AI systems builder • agent infrastructure tinkerer           │
-│  Shipping tools for agents that need brakes, memory,          │
-│  sandboxes, and slightly fewer existential incidents.         │
-└──────────────────────────────────────────────────────────────┘
-```
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-roshans--portfolio--site.vercel.app-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://roshans-portfolio-site.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ravani%20Roshan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roshan-ravani-3a79882a3/)
@@ -80,6 +72,10 @@ It sits in the category I care about most right now: agents that can operate rea
 ---
 
 ## 🧪 Recent Work
+
+<div align="center">
+  <img src="assets/project-previews.svg" alt="Project preview cards for Backstop, Nikki, and Phantom" width="100%" />
+</div>
 
 | Project | What it is | Stack / Focus |
 |---|---|---|
@@ -161,6 +157,6 @@ build target: useful systems, not shiny demos
 **I build agents, sandboxes, reliability layers, and tools that make computers do the boring parts.<br>
 Occasionally, the computers complain. That means it's working.**
 
-![Profile Views](https://komarev.com/ghpvc/?username=RavaniRoshan&color=blueviolet&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=RavaniRoshan&color=blueviolet&style=flat-square&label=Profile+Views&base=3000)
 
 </div>
