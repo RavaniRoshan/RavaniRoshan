@@ -2,7 +2,6 @@
 
 <div align="center">
 
-<img src="assets/profile-hero.svg" alt="Ravani Roshan — AI systems builder, agent reliability, sandboxes, and automation" width="100%" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-roshans--portfolio--site.vercel.app-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://roshans-portfolio-site.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ravani%20Roshan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roshan-ravani-3a79882a3/)
