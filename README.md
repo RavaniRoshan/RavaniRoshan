@@ -161,6 +161,6 @@ build target: useful systems, not shiny demos
 **I build agents, sandboxes, reliability layers, and tools that make computers do the boring parts.<br>
 Occasionally, the computers complain. That means it's working.**
 
-![Profile Views](https://komarev.com/ghpvc/?username=RavaniRoshan&color=blueviolet&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=roshan-ravani&color=blueviolet&style=flat-square&label=Profile+Views)
 
 </div>
