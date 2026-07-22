@@ -1,177 +1,166 @@
-# Hey there, I'm Ravani Roshan!
-
-### ~~AI-Powered Alchemist & Full-Stack Engineer~~ You know what? "I am just ROSHAN"
-
-> _I don't just push boundaries; I gave them an eviction notice. Welcome to the lab._
-
-Look, I don't just "code"—I teach rocks how to think and get them to thank me for it. I’m a founder-engineer who treats production like a jazz solo: calculated chaos with a lot of soul. I build high-ROI AI products because "impossible" is just a dare I haven't taken yet. My goal? Automate the mundane, scale the genius, and build the kind of tech that makes Skynet look like a pocket calculator. If you're looking for safe, color-by-numbers engineering, go hire a spreadsheet. I'm here to ship fast, break the status quo, and turn ungodly amounts of caffeine into pure, monetizable magic.
-
-### 🚨 Building in Public: OpenJCK
-
-Right now, the project getting most of my obsession is **OpenJCK** (formerly AgentTrace): the observability + reliability runtime for autonomous AI agent systems — basically **Cloudflare for AI agents**.
-
-If NVIDIA OpenShell answers _"what can an agent do?"_, OpenJCK answers _"what did it do, why did it fail, and how do we keep fleets alive 24/7?"_ It’s designed for the new always-on world of Claude-based autonomous agents, where reliability is not a feature — it’s survival.
-
-- ✅ **v0.1 shipped:** `@trace` decorator, static HTML viewer, npm package
-- 🔨 **v0.2 in progress:** live dashboard, Failure Intelligence, Express + SQLite backend, SSE
-- 🧭 **Next:** the five-phase roadmap to production-grade agent infrastructure
-
-## 🎯 What I'm Up To
-
-- 🔭 **Currently Architecting:** **Axiom-One** (Research-Grade Reasoning System—because chatbots are boring) & **Agent-X** (Vision-Language Browser Agent—yes, it can see you).
-- 🌱 **Downloading to Brain:** Agentic AI, LangGraph, Fine-tuning... basically learning how to make the machines do my chores.
-- 🤝 **Looking for Co-Conspirators:** To build innovative AI projects or anything that sounds vaguely impossible.
-- 💬 **Provoke Me About:** System architecture, the singularity, or why AI ethics is the only conversation worth having at parties.
-- ⚡ **Weird Flex:** I've fine-tuned 8 AI models, swept 3 hackathons, and type at 120 WPM. My blood stream is 90% Arabica.
-
-## 🛠️ Tools I Use to Bend Reality
-
-### Programming Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-### Frameworks & Libraries
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-
-### AI/ML & Data Science
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Anthropic](https://img.shields.io/badge/Anthropic-D09D78?style=for-the-badge&logo=anthropic&logoColor=white)
-![Semantic Kernel](https://img.shields.io/badge/Semantic_Kernel-000000?style=for-the-badge)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-### Cloud & DevOps
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-## 🚀 Featured Projects
-
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <h3 align="center">🛡️ Backstop</h3>
-      <p align="center"><i>July 2026 - Present</i></p>
-      <p>In-process AI SDK backpressure, budgets, retries, circuit breaking, and metrics. Backstop replaces the SDK's internal httpx transport with a controlled pipeline—budget enforcement, circuit breaking, priority admission, retry logic—before any request leaves your application. Includes the Wedge tool for multi-agent diffing.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Anthropic-D09D78?style=flat-square&logo=anthropic&logoColor=white" />
-        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-      </p>
-      <p align="center">
-        <a href="https://github.com/RavaniRoshan/backstop">
-          <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🔍 OpenJCK</h3>
-      <p align="center"><i>Jan 2024 - Present</i></p>
-      <p>An agent workflow visual debugging tool. It acts as an observability and reliability runtime for autonomous AI agent systems. Provides a timeline view and step inspector to trace LLM and tool calls, automatically identifying root causes of agent failures.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-      </p>
-      <p align="center">
-        <a href="https://github.com/RavaniRoshan/openjck">
-          <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%">
-      <h3 align="center">🪟 WinScript-lang</h3>
-      <p align="center"><i>2024 - Present</i></p>
-      <p>The open scripting language for Windows automation. Designed so AI agents and humans can automate any Windows application using natural, readable syntax. Features an Interactive REPL, CLI, VSCode Extension & Language Server, and Microsoft Excel COM Integration.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" />
-        <img src="https://img.shields.io/badge/MCP-000000?style=flat-square" />
-      </p>
-      <p align="center">
-        <a href="https://github.com/RavaniRoshan/winscript-lang">
-          <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🤖 niki Public</h3>
-      <p align="center"><i>June 2026 - Present</i></p>
-      <p>Hermetic multi-agent coding system: isolated AI agents independently plan, code, test & review in Docker sandboxes, then hand you a reviewable git branch. Fire-and-forget, BYOK, built in Rust.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      </p>
-      <p align="center">
-        <a href="https://github.com/RavaniRoshan/niki">
-          <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-
-## 🏆 Proof I Actually Know Things
-
-- 🎓 **Building toward Computer Use with Anthropic** - Anthropic (Mar 2025)
-- 🏢 **Software Engineering Job Simulations** - EA, Walmart, Goldman Sachs (Forage, 2024)
-- 🤖 **AI Agents in LangGraph** - DeepLearning.AI (2024)
-- 🚀 **Finetuning Large Language Models** - DeepLearning.AI (2024)
-- 🎨 **Front End Development Libraries** - freeCodeCamp (Feb 2025)
-- 👁️ **Prompt Engineering for Vision Models** - DeepLearning.AI (Dec 2024)
-- 🧠 **Machine Learning with Python** - Cognitive Class (Dec 2024)
-- 🔗 **Blockchain Masterclass** - CFTE
-
-## 📊 GitHub Stats
+# Hey there, I'm Ravani Roshan 👋
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RavaniRoshan&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RavaniRoshan&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RavaniRoshan&theme=radical&hide_border=true" height="180" alt="streak graph" />
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│  Ravani Roshan                                               │
+│  AI systems builder • agent infrastructure tinkerer           │
+│  Shipping tools for agents that need brakes, memory,          │
+│  sandboxes, and slightly fewer existential incidents.         │
+└──────────────────────────────────────────────────────────────┘
+```
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-roshans--portfolio--site.vercel.app-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://roshans-portfolio-site.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ravani%20Roshan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roshan-ravani-3a79882a3/)
+[![GitHub](https://img.shields.io/badge/GitHub-RavaniRoshan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RavaniRoshan)
+[![X](https://img.shields.io/badge/X-@RoshanAIs-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/RoshanAIs)
+
 </div>
 
-## 🌐 Connect Before I'm Famous
+---
 
-- 💼 **LinkedIn:** [Ravani Roshan](https://www.linkedin.com/in/roshan-ravani-3a79882a3/) (My "Professional" Mask)
-- 🌐 **Portfolio:** [ravani-roshan-singh.vercel.app/certificates](https://ravani-roshan-singh.vercel.app/certificates) (The "I'm Actually Good" Proof)
-- 📧 **Email:** ravaniroshansingh@gmail.com (Send memes or job offers. Preferably both.)
-- 💻 **HackerRank:** [Profile](https://hackerrank.com/ravaniroshansingh)
+## 🧠 About Me
+
+I'm **Ravani Roshan**, an AI-focused builder working at the edge of autonomous agents, developer tooling, and systems that make large language models useful outside demo videos.
+
+My current work is centered on **agent reliability**, **sandboxed coding systems**, and **computer-use automation** — the kind of infrastructure agents need when they stop being cute chat boxes and start touching real tools, real budgets, and real machines.
+
+I like building products that feel sharp, fast, and a little dangerous in the best way: practical systems with enough personality to make the terminal smirk back.
+
+---
+
+## 🚧 Currently Building
+
+### 🛡️ Backstop
+
+**Backstop** is an in-process reliability layer for AI SDK usage: backpressure, budget enforcement, retries, circuit breaking, and metrics before requests leave the application.
+
+It explores a simple but important question: **what if multi-agent systems had brakes before they burned money, rate limits, or everyone's patience?**
+
+- Transport-layer control for AI SDK calls
+- Budget isolation for multi-agent coding architectures
+- Circuit breakers, priority admission, retry logic, and observability hooks
+- Python-first implementation with OpenAI and Anthropic-oriented workflows
+
+[![Backstop](https://img.shields.io/badge/View_Backstop-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RavaniRoshan/backstop)
+
+---
+
+### 🤖 Nikki / Niki
+
+**Nikki** is a hermetic multi-agent coding system where isolated AI agents independently plan, code, test, and review inside Docker sandboxes, then hand back a reviewable Git branch.
+
+Think: fire-and-forget coding agents, but with containment. Because giving five agents shell access without guardrails is how you accidentally summon DevOps Voldemort.
+
+- Rust-based CLI and orchestration
+- Docker-backed isolation
+- Bring-your-own-key agent workflows
+- Multi-agent planning, implementation, testing, and review
+
+[![Niki](https://img.shields.io/badge/View_Niki-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RavaniRoshan/niki)
+[![Niki Site](https://img.shields.io/badge/Niki_Site-000000?style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/RavaniRoshan/niki-site)
+
+---
+
+### 👻 Phantom
+
+**Phantom** is an invisible background-mode computer-use agent for Windows.
+
+It sits in the category I care about most right now: agents that can operate real environments, not just answer questions about them. The goal is practical computer-use automation that works quietly in the background — less "look ma, I clicked a button," more "the task is done, your keyboard survived."
+
+- Windows-focused computer-use automation
+- Background-mode agent design
+- Rust-based systems work
+- Companion product-site experimentation
+
+[![Phantom](https://img.shields.io/badge/View_Phantom-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RavaniRoshan/phantom)
+[![Phantom Product Site](https://img.shields.io/badge/Product_Site-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/RavaniRoshan/phantom-product-site)
+
+---
+
+## 🧪 Recent Work
+
+| Project | What it is | Stack / Focus |
+|---|---|---|
+| [`backstop`](https://github.com/RavaniRoshan/backstop) | AI SDK backpressure, budgets, retries, circuit breaking, and metrics | Python, AI infra, agent reliability |
+| [`niki`](https://github.com/RavaniRoshan/niki) | Hermetic multi-agent coding system with Docker sandboxes | Rust, Docker, CLI, AI agents |
+| [`phantom`](https://github.com/RavaniRoshan/phantom) | Invisible background-mode computer-use agent for Windows | Rust, Windows automation |
+| [`RavaniRoshanSingh`](https://github.com/RavaniRoshan/RavaniRoshanSingh) | Portfolio site and personal launchpad | TypeScript, product design |
+| [`roshans-portfolio-site`](https://github.com/RavaniRoshan/roshans-portfolio-site) | Mac-desktop-inspired personal portfolio | React, TypeScript, Vite, Tailwind |
+| [`REI`](https://github.com/RavaniRoshan/REI) | Repository Evolution Intelligence for predicting downstream file impact | Python, static analysis |
+| [`llm-finetuning-toolkit`](https://github.com/RavaniRoshan/llm-finetuning-toolkit) | Toolkit for synthesizing data, aligning, and deploying custom AI agents | Python, SLMs, DPO, agent tooling |
+| [`mnemo-cognitive-telemetry`](https://github.com/RavaniRoshan/mnemo-cognitive-telemetry) | Cognitive observability for memory-augmented LLM agents | Python, agent memory, observability |
+
+---
+
+## 🛠️ Toolbox
+
+<div align="center">
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### AI, Agents & Infra
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-D09D78?style=for-the-badge&logo=anthropic&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### Frontend & Product
+
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646cff?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38bdf8?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Pulse
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=RavaniRoshan&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RavaniRoshan&layout=compact&theme=radical&hide_border=true" height="180" alt="Top languages" />
+
+<br />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RavaniRoshan&theme=radical&hide_border=true" height="180" alt="GitHub streak" />
+
+</div>
+
+---
+
+## 🌐 Find Me
+
+- 💼 **LinkedIn:** [Ravani Roshan](https://www.linkedin.com/in/roshan-ravani-3a79882a3/)
+- 🌐 **Portfolio:** [roshans-portfolio-site.vercel.app](https://roshans-portfolio-site.vercel.app)
+- 🧪 **GitHub:** [RavaniRoshan](https://github.com/RavaniRoshan)
+- 🐦 **X:** [@RoshanAIs](https://x.com/RoshanAIs)
+- 📧 **Email:** `ravaniroshansingh@gmail.com`
 
 ---
 
 <div align="center">
 
-_"I don't just solve problems. I create solutions that make the original problem look like it was asking for it."_ 💪
+```text
+agent status: awake
+coffee level: suspiciously high
+build target: useful systems, not shiny demos
+```
 
-**Fair warning: I may accidentally automate your job while we're talking.** 🌟
+**I build agents, sandboxes, reliability layers, and tools that make computers do the boring parts.<br>
+Occasionally, the computers complain. That means it's working.**
 
-![Profile Views](https://komarev.com/ghpvc/?username=roshan-ravani&color=blueviolet&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=RavaniRoshan&color=blueviolet&style=flat-square&label=Profile+Views)
 
 </div>
