@@ -55,11 +55,7 @@ Think: fire-and-forget coding agents, but with containment. Because giving five 
 
 
 
-## 🧪 Recent Work
 
-<div align="center">
-  <img src="assets/project-previews.svg" alt="Project preview cards for Backstop, Nikki, and Phantom" width="100%" />
-</div>
 
 | Project | What it is | Stack / Focus |
 |---|---|---|
