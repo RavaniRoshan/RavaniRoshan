@@ -2,11 +2,28 @@
 
 <div align="center">
 
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-roshans--portfolio--site.vercel.app-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://roshans-portfolio-site.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ravani%20Roshan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roshan-ravani-3a79882a3/)
 [![GitHub](https://img.shields.io/badge/GitHub-RavaniRoshan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RavaniRoshan)
 [![X](https://img.shields.io/badge/X-@RoshanAIs-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/RoshanAIs)
+
+</div>
+
+---
+
+## 🚀 Product Hunt Launch Spotlight
+
+<div align="center">
+
+### 🤖 Niki — Hermetic Multi-Agent Coding System
+
+**Launching 18 August on Product Hunt!** 🚀
+
+> *"Giving multi-agent coding systems root access without sandboxes is how you accidentally summon DevOps Voldemort. So I built Niki — isolated agents that plan, code, test, and review in Docker, handing you clean Git branches."*
+
+[![Product Hunt](https://img.shields.io/badge/Product_Hunt-Launching_18_August-FF6154?style=for-the-badge&logo=producthunt&logoColor=white)](https://www.producthunt.com)
+[![Niki Repo](https://img.shields.io/badge/GitHub-RavaniRoshan%2Fniki-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RavaniRoshan/niki)
+[![Niki Site](https://img.shields.io/badge/Website-niki--site.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://niki-site.vercel.app)
 
 </div>
 
@@ -24,6 +41,23 @@ I like building products that feel sharp, fast, and a little dangerous in the be
 
 ## 🚧 Currently Building
 
+### 🤖 Niki (Product Hunt Launch: 18 August)
+
+**Niki** is a hermetic multi-agent coding system where isolated AI agents independently plan, code, test, and review inside Docker sandboxes, then hand back a reviewable Git branch.
+
+Think: fire-and-forget coding agents, but with containment. Because giving five agents shell access without guardrails is how you accidentally summon DevOps Voldemort.
+
+- Rust-based CLI and orchestration
+- Docker-backed isolation
+- Bring-your-own-key agent workflows
+- Multi-agent planning, implementation, testing, and review
+
+[![Niki PH](https://img.shields.io/badge/Product_Hunt-Launch_18_Aug-FF6154?style=for-the-badge&logo=producthunt&logoColor=white)](https://www.producthunt.com)
+[![Niki Repo](https://img.shields.io/badge/View_Niki-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RavaniRoshan/niki)
+[![Niki Site](https://img.shields.io/badge/Niki_Site-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://niki-site.vercel.app)
+
+---
+
 ### 🛡️ Backstop
 
 **Backstop** is an in-process reliability layer for AI SDK usage: backpressure, budget enforcement, retries, circuit breaking, and metrics before requests leave the application.
@@ -39,28 +73,10 @@ It explores a simple but important question: **what if multi-agent systems had b
 
 ---
 
-### 🤖 Nikki / Niki
-
-**Nikki** is a hermetic multi-agent coding system where isolated AI agents independently plan, code, test, and review inside Docker sandboxes, then hand back a reviewable Git branch.
-
-Think: fire-and-forget coding agents, but with containment. Because giving five agents shell access without guardrails is how you accidentally summon DevOps Voldemort.
-
-- Rust-based CLI and orchestration
-- Docker-backed isolation
-- Bring-your-own-key agent workflows
-- Multi-agent planning, implementation, testing, and review
-
-[![Niki](https://img.shields.io/badge/View_Niki-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RavaniRoshan/niki)
-[![Niki Site](https://img.shields.io/badge/Niki_Site-000000?style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/RavaniRoshan/niki-site)
-
-
-
-
-
 | Project | What it is | Stack / Focus |
 |---|---|---|
+| [`niki`](https://github.com/RavaniRoshan/niki) | 🚀 **Launching 18 Aug on Product Hunt** — Hermetic multi-agent coding system with Docker sandboxes | Rust, Docker, CLI, AI agents |
 | [`backstop`](https://github.com/RavaniRoshan/backstop) | AI SDK backpressure, budgets, retries, circuit breaking, and metrics | Python, AI infra, agent reliability |
-| [`niki`](https://github.com/RavaniRoshan/niki) | Hermetic multi-agent coding system with Docker sandboxes | Rust, Docker, CLI, AI agents |
 | [`phantom`](https://github.com/RavaniRoshan/phantom) | Invisible background-mode computer-use agent for Windows | Rust, Windows automation |
 | [`RavaniRoshanSingh`](https://github.com/RavaniRoshan/RavaniRoshanSingh) | Portfolio site and personal launchpad | TypeScript, product design |
 | [`roshans-portfolio-site`](https://github.com/RavaniRoshan/roshans-portfolio-site) | Mac-desktop-inspired personal portfolio | React, TypeScript, Vite, Tailwind |
