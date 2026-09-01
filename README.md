@@ -1,123 +1,25 @@
-# Hey there, I'm Ravani Roshan 👋
+# Hi 👋 I'm Ravani Roshan
 
-<div align="center">
+**AI Systems Builder | Autonomous Agents | Developer Tooling**
+Building practical, reliable AI systems that can do more than look impressive in a demo.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-roshans--portfolio--site.vercel.app-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://roshans-portfolio-site.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ravani%20Roshan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roshan-ravani-3a79882a3/)
-[![GitHub](https://img.shields.io/badge/GitHub-RavaniRoshan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RavaniRoshan)
-[![X](https://img.shields.io/badge/X-@RoshanAIs-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/RoshanAIs)
+I'm an AI-focused builder working on autonomous agents, computer-use automation, and the infrastructure that keeps ambitious systems dependable once they meet real tools, real users, and real-world constraints. My work spans multi-agent orchestration, sandboxed coding environments, LLM reliability, and developer products.
 
-</div>
+I care about useful systems, thoughtful product design, and safeguards that keep a swarm of agents from becoming a very confident expense report.
 
 ---
 
-## 🚀 Product Hunt Launch Spotlight
+### What I Work On
 
-<div align="center">
-
-### 🤖 Niki — Hermetic Multi-Agent Coding System
-
-**Launching 18 August on Product Hunt!** 🚀
-
-> *"Giving multi-agent coding systems root access without sandboxes is how you accidentally summon DevOps Voldemort. So I built Niki — isolated agents that plan, code, test, and review in Docker, handing you clean Git branches."*
-
-[![Product Hunt](https://img.shields.io/badge/Product_Hunt-Launching_18_August-FF6154?style=for-the-badge&logo=producthunt&logoColor=white)](https://www.producthunt.com)
-[![Niki Repo](https://img.shields.io/badge/GitHub-RavaniRoshan%2Fniki-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RavaniRoshan/niki)
-[![Niki Site](https://img.shields.io/badge/Website-niki--site.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://niki-site.vercel.app)
-
-</div>
+- Autonomous and multi-agent systems for planning, coding, testing, and review
+- Agent reliability: budgets, backpressure, retries, circuit breakers, and observability
+- Sandboxed developer tooling and Docker-based execution environments
+- Computer-use automation and systems integrations
+- AI product engineering with Rust, Python, TypeScript, and modern web tooling
 
 ---
 
-## 🧠 About Me
-
-I'm **Ravani Roshan**, an AI-focused builder working at the edge of autonomous agents, developer tooling, and systems that make large language models useful outside demo videos.
-
-My current work is centered on **agent reliability**, **sandboxed coding systems**, and **computer-use automation** — the kind of infrastructure agents need when they stop being cute chat boxes and start touching real tools, real budgets, and real machines.
-
-I like building products that feel sharp, fast, and a little dangerous in the best way: practical systems with enough personality to make the terminal smirk back.
-
----
-
-## 🚧 Currently Building
-
-### 🤖 Niki (Product Hunt Launch: 18 August)
-
-**Niki** is a hermetic multi-agent coding system where isolated AI agents independently plan, code, test, and review inside Docker sandboxes, then hand back a reviewable Git branch.
-
-Think: fire-and-forget coding agents, but with containment. Because giving five agents shell access without guardrails is how you accidentally summon DevOps Voldemort.
-
-- Rust-based CLI and orchestration
-- Docker-backed isolation
-- Bring-your-own-key agent workflows
-- Multi-agent planning, implementation, testing, and review
-
-[![Niki PH](https://img.shields.io/badge/Product_Hunt-Launch_18_Aug-FF6154?style=for-the-badge&logo=producthunt&logoColor=white)](https://www.producthunt.com)
-[![Niki Repo](https://img.shields.io/badge/View_Niki-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RavaniRoshan/niki)
-[![Niki Site](https://img.shields.io/badge/Niki_Site-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://niki-site.vercel.app)
-
----
-
-### 🛡️ Backstop
-
-**Backstop** is an in-process reliability layer for AI SDK usage: backpressure, budget enforcement, retries, circuit breaking, and metrics before requests leave the application.
-
-It explores a simple but important question: **what if multi-agent systems had brakes before they burned money, rate limits, or everyone's patience?**
-
-- Transport-layer control for AI SDK calls
-- Budget isolation for multi-agent coding architectures
-- Circuit breakers, priority admission, retry logic, and observability hooks
-- Python-first implementation with OpenAI and Anthropic-oriented workflows
-
-[![Backstop](https://img.shields.io/badge/View_Backstop-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RavaniRoshan/backstop)
-
----
-
-| Project | What it is | Stack / Focus |
-|---|---|---|
-| [`niki`](https://github.com/RavaniRoshan/niki) | 🚀 **Launching 18 Aug on Product Hunt** — Hermetic multi-agent coding system with Docker sandboxes | Rust, Docker, CLI, AI agents |
-| [`backstop`](https://github.com/RavaniRoshan/backstop) | AI SDK backpressure, budgets, retries, circuit breaking, and metrics | Python, AI infra, agent reliability |
-| [`phantom`](https://github.com/RavaniRoshan/phantom) | Invisible background-mode computer-use agent for Windows | Rust, Windows automation |
-| [`RavaniRoshanSingh`](https://github.com/RavaniRoshan/RavaniRoshanSingh) | Portfolio site and personal launchpad | TypeScript, product design |
-| [`roshans-portfolio-site`](https://github.com/RavaniRoshan/roshans-portfolio-site) | Mac-desktop-inspired personal portfolio | React, TypeScript, Vite, Tailwind |
-| [`REI`](https://github.com/RavaniRoshan/REI) | Repository Evolution Intelligence for predicting downstream file impact | Python, static analysis |
-| [`llm-finetuning-toolkit`](https://github.com/RavaniRoshan/llm-finetuning-toolkit) | Toolkit for synthesizing data, aligning, and deploying custom AI agents | Python, SLMs, DPO, agent tooling |
-| [`mnemo-cognitive-telemetry`](https://github.com/RavaniRoshan/mnemo-cognitive-telemetry) | Cognitive observability for memory-augmented LLM agents | Python, agent memory, observability |
-
----
-
-## 🛠️ Toolbox
-
-<div align="center">
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-### AI, Agents & Infra
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-D09D78?style=for-the-badge&logo=anthropic&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### Frontend & Product
-
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646cff?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38bdf8?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Pulse
+### GitHub Activity
 
 <div align="center">
 
@@ -132,15 +34,73 @@ It explores a simple but important question: **what if multi-agent systems had b
 
 ---
 
-## 🌐 Find Me
+### Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+**AI, Agents & Reliability**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-D09D78?style=for-the-badge&logo=anthropic&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+🧠 Multi-agent orchestration · LLM evaluation · Agent memory · Computer use · Observability
+
+**Cloud & Developer Infrastructure**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646cff?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+---
+
+### Featured Work
+
+**[Niki](https://github.com/RavaniRoshan/niki) — Hermetic Multi-Agent Coding System**
+
+- A Rust-based system where isolated agents plan, code, test, and review inside Docker sandboxes
+- Produces reviewable Git branches instead of giving every agent the keys to the production kingdom
+
+**[Backstop](https://github.com/RavaniRoshan/backstop) — AI SDK Reliability Layer**
+
+- In-process controls for backpressure, budgets, retries, circuit breaking, and metrics
+- Designed to put sensible brakes on AI SDK workflows before cost, rate limits, or chaos take the wheel
+
+**[Phantom](https://github.com/RavaniRoshan/phantom) — Background Computer-Use Agent**
+
+- A Rust-powered Windows automation agent built to work quietly in the background
+
+**[REI](https://github.com/RavaniRoshan/REI) — Repository Evolution Intelligence**
+
+- Static-analysis tooling for predicting the downstream impact of repository changes
+
+---
+
+### Highlights
+
+- Building agent systems with **reliability and containment** as first-class features
+- Shipping tools across **Rust, Python, TypeScript, Docker, and LLM APIs**
+- Exploring the bridge between **agent research and practical developer workflows**
+- Focused on products that make capable AI systems safer, clearer, and more useful
+
+---
+
+### Let's Connect
 
 - 💼 **LinkedIn:** [Ravani Roshan](https://www.linkedin.com/in/roshan-ravani-3a79882a3/)
 - 🌐 **Portfolio:** [roshans-portfolio-site.vercel.app](https://roshans-portfolio-site.vercel.app)
 - 🧪 **GitHub:** [RavaniRoshan](https://github.com/RavaniRoshan)
 - 🐦 **X:** [@RoshanAIs](https://x.com/RoshanAIs)
-- 📧 **Email:** `ravaniroshansingh@gmail.com`
-
----
+- 📧 **Email:** [ravaniroshansingh@gmail.com](mailto:ravaniroshansingh@gmail.com)
 
 <div align="center">
 
@@ -149,9 +109,6 @@ agent status: awake
 coffee level: suspiciously high
 build target: useful systems, not shiny demos
 ```
-
-**I build agents, sandboxes, reliability layers, and tools that make computers do the boring parts.<br>
-Occasionally, the computers complain. That means it's working.**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=RavaniRoshan&color=blueviolet&style=flat-square&label=Profile+Views&base=3000)
 
