@@ -79,9 +79,9 @@ I care about useful systems, thoughtful product design, and safeguards that keep
 
 - A Rust-powered Windows automation agent built to work quietly in the background
 
-**[REI](https://github.com/RavaniRoshan/REI) — Repository Evolution Intelligence**
+**[policyctl](https://github.com/RavaniRoshan/policyctl) — policyctl provides a deterministic policy runtime that sits between the agent and your codebase.**
 
-- Static-analysis tooling for predicting the downstream impact of repository changes
+- Provider-agnostic deterministic policy runtime for coding agents.
 
 ---
 
