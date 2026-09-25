@@ -23,11 +23,6 @@ I care about useful systems, thoughtful product design, and safeguards that keep
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RavaniRoshan&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RavaniRoshan&layout=compact&theme=radical&hide_border=true" height="180" alt="Top languages" />
-
-<br />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=RavaniRoshan&theme=radical&hide_border=true" height="180" alt="GitHub streak" />
 
 </div>
@@ -109,7 +104,5 @@ agent status: awake
 coffee level: suspiciously high
 build target: useful systems, not shiny demos
 ```
-
-![Profile Views](https://komarev.com/ghpvc/?username=RavaniRoshan&color=blueviolet&style=flat-square&label=Profile+Views&base=3000)
 
 </div>
