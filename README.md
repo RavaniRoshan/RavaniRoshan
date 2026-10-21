@@ -69,7 +69,7 @@ I care about useful systems, thoughtful product design, and safeguards that keep
 
 - In-process controls for backpressure, budgets, retries, circuit breaking, and metrics
 - Designed to put sensible brakes on AI SDK workflows before cost, rate limits, or chaos take the wheel
-- [Website and documentation](https://backstop-b5g.pages.dev)
+- [Website and documentation](https://ravaniroshan.github.io/backstop/)
 
 **[Phantom](https://github.com/RavaniRoshan/phantom) — Background Computer-Use Agent**
 
@@ -92,7 +92,7 @@ I care about useful systems, thoughtful product design, and safeguards that keep
 
 ### Let's Connect
 
-- 🚀 **Website:** [Backstop](https://backstop-b5g.pages.dev) — hard limits for AI agents
+- 🚀 **Website:** [Backstop](https://ravaniroshan.github.io/backstop/) — hard limits for AI agents
 - 💼 **LinkedIn:** [Ravani Roshan](https://www.linkedin.com/in/roshan-ravani-3a79882a3/)
 - 🌐 **Portfolio:** [roshans-portfolio-site.vercel.app](https://roshans-portfolio-site.vercel.app)
 - 🧪 **GitHub:** [RavaniRoshan](https://github.com/RavaniRoshan)
